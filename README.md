@@ -5,13 +5,13 @@
   <a href="https://youtube.com/@ON-FIRE?utm_source=EKLEiJECCKjOmKnC5IiRIQ">
     <img width="200" heigth="220" src="https://github.com/ACTION-FIRE/ACTION-FIRE/blob/main/20221007_173731-1.jpg">
     </br>
-  <h1>ADOR CHOWDHURY </h1>
+  <h1>NISHO ALVI</h1>
 <br>
 </div>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F70000&width=435&lines=I'm+Ador+Chowdhury+;It%E2%80%99s+Not+A+Name+Brother+;It%E2%80%99s+A+Brand+;Thank+You+%26+Love+You+Everyone)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h1 align="center">Hi <img src="https://github.com/ACTION-FIRE/ACTION-FIRE/blob/main/Wave.gif" height="55px" width="55px">, I'm ADOR CHOWDHURY</h1>
+<h1 align="center">Hi <img src="https://github.com/ACTION-FIRE/ACTION-FIRE/blob/main/Wave.gif" height="55px" width="55px">, I'm NISHO ALVI</h1>
 <h3 align="center">¯\_(ツ)_/¯
  
 Programmer | Content Creator | Learner
